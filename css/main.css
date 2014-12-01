@@ -1,0 +1,25 @@
+a{
+  text-decoration:none;
+}
+
+#resume{
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+
+*{
+  font-family:'Courgette', sans-seriff;
+  text-align: center;
+  #background:black;
+  font-color:white;
+}
+
+*.open{
+  background:#FCC;
+}
+
+*.highlight{
+  background:#FAA;
+}
