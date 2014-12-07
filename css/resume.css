@@ -1,0 +1,57 @@
+body{
+  font-family: sans-seriff;
+  width:8in;
+  height:10.3in;
+  margin:50px auto;
+
+}
+
+h1,h2,h3,h4,h5,p{
+  margin:1%;
+}
+
+h1{
+  margin-top:3%;
+
+}
+h5{
+  text-decoration:underline;
+}
+
+p{
+  margin-left:5%;
+  font-size:90%;
+}
+
+.box{
+  width: 100%;
+  border-style:double;
+  margin:0% auto;
+}
+
+#name{
+  height: 10%;
+  text-align:center;
+  margin-bottom:3%;
+}
+
+#info{
+  height:87%;
+}
+
+.col{
+  padding:1%;
+  float: left;
+  margin:0% auto;
+  height:98%;
+}
+
+#knowledge{
+  width:35%;
+
+}
+
+#background{
+  border-left-style:double;
+  width:60%;
+}

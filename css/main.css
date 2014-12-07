@@ -3,23 +3,24 @@ a{
 }
 
 #resume{
-  max-width: 1080px;
-  margin: 0 auto;
-  padding: 0 5%;
+  margin: 100px 100px;
+  height:
 }
 
-
-*{
-  font-family:'Courgette', sans-seriff;
+body{
+  font-family:'Lobster', sans-seriff;
   text-align: center;
-  #background:black;
-  font-color:white;
 }
 
-*.open{
+.open{
   background:#FCC;
+  margin:20px;
 }
 
-*.highlight{
+.highlight{
   background:#FAA;
+}
+
+iframe{
+  border-style:double;
 }
